@@ -2,15 +2,7 @@
 
 ### Sobre Mí
 
-Soy un entusiasta de la programación de Bogotá, Colombia, con un profundo interés en la ingeniería aeroespacial. Actualmente estoy cursando un técnico en programación de software en el SENA, y planeo continuar mis estudios en ingeniería aeroespacial el próximo año. Mis pasiones incluyen la Fórmula 1, los cohetes, y el desarrollo web.
-
-### Intereses
-
-- 🚀 Ingeniería Aeroespacial
-- 🏎️ Fórmula 1
-- 💻 Desarrollo Web
-- 🔬 Matemáticas y Física
-- 🌍 Viajes y Cultura Europea
+Soy un apasionado programador de Bogotá, Colombia, actualmente cursando un técnico en programación de software en el SENA. Me estoy preparando para continuar mis estudios en ingeniería aeroespacial. Disfruto desarrollando proyectos web y explorando nuevas tecnologías.
 
 ### Tecnologías y Habilidades
 
@@ -18,6 +10,14 @@ Soy un entusiasta de la programación de Bogotá, Colombia, con un profundo inte
 - **Bases de Datos:** MySQL, phpMyAdmin
 - **Herramientas de Desarrollo:** XAMPP, Git
 - **Otros:** Gestión de proyectos, trabajo en equipo
+
+### Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Empastee7&show_icons=true&theme=radical)
+
+### Lenguajes Más Utilizados
+
+![Lenguajes Más Utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=Empastee7&layout=compact&theme=radical)
 
 ### Proyectos Destacados
 
@@ -32,4 +32,3 @@ Una plataforma innovadora para los amantes del billar que permite reservar mesas
 ---
 
 *"La ciencia no es sino una perversión de sí misma a menos que tenga como objetivo último mejorar la humanidad."* - Nikola Tesla
-
