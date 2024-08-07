@@ -17,7 +17,7 @@ Soy un apasionado programador de Bogotá, Colombia, actualmente cursando un téc
 
 ### Lenguajes Más Utilizados
 
-![Lenguajes Más Utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=Empastee7&layout=compact&theme=radical)
+![Lenguajes Más Utilizados](![Empastee7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Empastee7&theme=vue-dark&show_icons=true&hide_border=true&layout=compact))
 
 ### Proyectos Destacados
 
